@@ -86,8 +86,7 @@ The Honestly Significant Difference (HSD) test reveals that the severe sleep dep
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/[你的GitHub帳號]/[你的專案倉庫名稱].git
-   cd [你的專案倉庫名稱]
+   https://github.com/Rex0039/113370223REX
    ```
 2. **Install Core Computational Packages:**
    ```bash
