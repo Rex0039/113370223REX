@@ -11,7 +11,7 @@ Student ID: 113370223
 
 ## Project Repository
 
-https://github.com/Rex0039/113370223-/blob/main/README.md
+https://github.com/Rex0039/113370223REX
 
 ## Presentation Video
 
